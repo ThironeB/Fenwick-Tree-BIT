@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAPHomeWork2", "TAPHomeWork2\TAPHomeWork2.csproj", "{2439E223-8662-4D0F-9149-DB790EAF8F75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FenwickTree", "TAPHomeWork2\FenwickTree.csproj", "{2439E223-8662-4D0F-9149-DB790EAF8F75}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
